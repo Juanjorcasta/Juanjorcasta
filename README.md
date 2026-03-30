@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Juan José Solarte
 
-<!--
-**Juanjorcasta/Juanjorcasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Profesional en Programación de Software
 
-Here are some ideas to get you started:
+💻 Desarrollador enfocado en Python y desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente construyendo proyectos para resolver problemas reales.
+
+## 🧠 Habilidades
+
+- Lógica de programación
+- Estructuras de datos
+- Desarrollo web
+- Bases de datos
+- Control de versiones con Git
+
+## 🛠️ Tecnologías
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+## 📌 Proyectos destacados
+- Sistema de préstamos
+- Aplicaciones web
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-casta%C3%B1o-aa33a7367/
+- Github: 
